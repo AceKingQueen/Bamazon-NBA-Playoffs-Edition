@@ -26,13 +26,11 @@ Now, it's time to see the products available. To do this, make sure you're in th
 
 <img width="504" alt="which item" src="https://user-images.githubusercontent.com/34424478/40072132-d0c00046-5840-11e8-8187-e8f510d20e41.png">
 
-The store's inventory will display in a table, followed by the prompt _Which item would you like? Type the item ID and hit enter._ Perhaps you want some Beard Oil as a keepsake from this year's playoff's run? 
+The store's inventory will display in a table, followed by the prompt _Which item would you like? Type the item ID and hit enter._ Perhaps you're a Houston Rockets fan and want some Beard Oil as a keepsake from this year's playoff's run? 
 
 ![harden](https://user-images.githubusercontent.com/34424478/40072127-d082549e-5840-11e8-819b-2980720fd567.jpg)
 
-Enter the correct Item ID (in this case, _7_) followed by the quantity desired. `<item ID desired>` and `<quantity desired>`
-
-You will then be given a total cost for your order. Refreshing the MySQL table will show the change in store inventory in the fifth column, _stock_quantity_. 
+Enter the correct Item ID (in this case, 7) followed by the quantity desired. You will then be given a total cost for your order. Refreshing the MySQL table will show the change in store inventory in the fifth column, _stock_quantity_. 
 
 ![before order](https://user-images.githubusercontent.com/34424478/40072124-d0601f00-5840-11e8-9131-d594b655c12a.jpg)
 ![after order](https://user-images.githubusercontent.com/34424478/40072123-d04a1066-5840-11e8-8042-73b4251adabf.jpg)
