@@ -26,3 +26,11 @@ This will create the MySQL database (picture the MySQL database as a big Excel s
 A MySQL table is a bit like an individual tab or sheet on an Excel spreadsheet. Now, we need to create the table which will hold our product inventory, and fill it with each product for sale. Do this by copying and pasting the code in _bamazonSchema.sql_:
 
 `<copy & paste>bamazonSchema.sql` then `command R`
+
+<img width="706" alt="create table" src="https://user-images.githubusercontent.com/34424478/40072126-d0790114-5840-11e8-991e-25a04f414085.png">
+
+### 4) Time to Shop!
+Now, it's time to see the products available. To do this, make sure you're in the _Bamazon_ application folder, and run _bamazonCustomer.js_:
+
+`node bamazonCustomer.js`
+
