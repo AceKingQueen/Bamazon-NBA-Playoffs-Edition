@@ -34,5 +34,8 @@ Enter the correct Item ID (in this case, _7_) followed by the quantity desired. 
 
 You will then be given a total cost for your order. Refreshing the MySQL table will show the change in store inventory in the fifth column, _stock_quantity_. 
 
+![before order](https://user-images.githubusercontent.com/34424478/40072124-d0601f00-5840-11e8-9131-d594b655c12a.jpg)
+
+
 
 
