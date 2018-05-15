@@ -32,3 +32,7 @@ The store's inventory will display in a table, followed by the prompt _Which ite
 
 Enter the correct Item ID (in this case, _7_) followed by the quantity desired. `<item ID desired>` and `<quantity desired>`
 
+You will then be given a total cost for your order. Refreshing the MySQL table will show the change in store inventory in the fifth column, _stock_quantity_. 
+
+
+
