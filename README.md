@@ -1,7 +1,7 @@
 # Bamazon-NBA-Playoffs-Edition
 I've created an Amazon-like storefront using MySQL and Node, specializing in products celebrating the 2018 NBA Playoffs. 
 
-The app takes in orders from customers, checks to see if there is enough product in stock, depletes from the store inventory, and, lastly, displays what the customer will be charged. This application runs entirely through a computer's command line or terminal.
+The app takes in orders from customers, checks to see if there is enough product in stock, depletes from the store inventory, and lastly, displays how much the order will cost. This application runs entirely through a computer's command line or terminal.
 
 ### 1) Initialize Node
 To run the application locally, please initialize node from your terminal or command line: `npm init`
@@ -9,15 +9,15 @@ To run the application locally, please initialize node from your terminal or com
 ### 2) Create the Database
 Then, copy and paste the code in _bamazonSeeds.sql_ file into your favorite MySQL GUI tool.
 
-> PC users might try [MySQL Workbench](https://www.mysql.com/products/workbench/).
-> Mac users could use [Sequel Pro](https://www.sequelpro.com/).
+> PC users might want [MySQL Workbench](https://www.mysql.com/products/workbench/).
+> Mac users might like [Sequel Pro](https://www.sequelpro.com/).
 
-This will create the MySQL database (picture the MySQL database as a big Excel spreadsheet): `<copy & paste>bamazonSeeds.sql` then `command R`
+This will create the MySQL database (picture the MySQL database as a big Excel spreadsheet).
 
 <img width="518" alt="create database" src="https://user-images.githubusercontent.com/34424478/40072125-d06be416-5840-11e8-8f73-feb9b3d54d9c.png">
 
 ### 3) Create the Table
-A MySQL table is a bit like an individual tab or sheet on an Excel spreadsheet. Now, we need to create the table which will hold our product inventory, and fill it with each product for sale. Do this by copying and pasting the code in _bamazonSchema.sql_: `<copy & paste>bamazonSchema.sql` then `command R`
+Now, we need to create the table which will hold our product inventory, and fill it with each product for sale. A MySQL table is a bit like a tab or sheet on an Excel spreadsheet. Do this by copying and pasting the code in _bamazonSchema.sql_.
 
 <img width="706" alt="create table" src="https://user-images.githubusercontent.com/34424478/40072126-d0790114-5840-11e8-991e-25a04f414085.png">
 
@@ -52,7 +52,4 @@ You will have the choice to either keep shopping or to stop shopping. Entering '
 
 Entering 'no' prompts a simple "have a nice day". Thank you for visiting my application!
 
-
-
-
-
+<img width="449" alt="have a nice day" src="https://user-images.githubusercontent.com/34424478/40072128-d08d2680-5840-11e8-82c2-58f7622fb845.png">
