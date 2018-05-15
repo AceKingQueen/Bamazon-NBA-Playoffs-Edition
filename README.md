@@ -34,3 +34,7 @@ Now, it's time to see the products available. To do this, make sure you're in th
 
 `node bamazonCustomer.js`
 
+<img width="504" alt="which item" src="https://user-images.githubusercontent.com/34424478/40072132-d0c00046-5840-11e8-8187-e8f510d20e41.png">
+
+The store's inventory will display in a table, followed by the prompt _Which item would you like? Type the item ID and hit enter._ Perhaps you want some Beard Oil as a keepsake from this year's playoff's run? 
+
