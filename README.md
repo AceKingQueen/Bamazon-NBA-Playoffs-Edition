@@ -48,6 +48,10 @@ You’ll learn the store is sold out of the product.
 
 You will have the choice to either keep shopping or to stop shopping. Entering 'yes' will start the shopping process over again, revealing the store inventory in a table and asking which item you'd like. 
 
+<img width="452" alt="sold out" src="https://user-images.githubusercontent.com/34424478/40072131-d0b1b46e-5840-11e8-9aa4-ee503ce7a592.png">
+
+Entering 'no' prompts a simple "have a nice day". Thank you for visiting my application!
+
 
 
 
