@@ -44,6 +44,11 @@ There are only 5 customized Joel Embiid jerseys, for instance. What happens if y
 
 ![embiid](https://user-images.githubusercontent.com/34424478/40072954-785260b8-5843-11e8-8f54-57dee9cc27a4.jpeg)
 
+You’ll learn the store is sold out of the product.
+
+You will have the choice to either keep shopping or to stop shopping. Entering 'yes' will start the shopping process over again, revealing the store inventory in a table and asking which item you'd like. 
+
+
 
 
 
