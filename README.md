@@ -19,3 +19,10 @@ Then, copy and paste the code in _bamazonSeeds.sql_ file into your favorite MySQ
 This will create the MySQL database (picture the MySQL database as a big Excel spreadsheet):
 
 `<copy & paste>bamazonSeeds.sql` then `command R`
+
+<img width="518" alt="create database" src="https://user-images.githubusercontent.com/34424478/40072125-d06be416-5840-11e8-8f73-feb9b3d54d9c.png">
+
+### 3) Create the Table
+A MySQL table is a bit like an individual tab or sheet on an Excel spreadsheet. Now, we need to create the table which will hold our product inventory, and fill it with each product for sale. Do this by copying and pasting the code in _bamazonSchema.sql_:
+
+`<copy & paste>bamazonSchema.sql` then `command R`
