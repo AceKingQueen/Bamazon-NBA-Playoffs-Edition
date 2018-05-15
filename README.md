@@ -40,7 +40,9 @@ You will then be given a total cost for your order. Refreshing the MySQL table w
 ### 5) Sold Out?
 But, you are not alone in loving the NBA. What happens if our NBA Playoffs store is out of that product?
 
-There are only 5 customized Joel Embiid jerseys, for instance. What happens if you try to order one for everybody on your Rec League team?
+There are only 5 customized Joel Embiid jerseys, for instance. What happens if you try to order one for everybody on your Rec League team (because they are AWESOME)?
+
+![embiid](https://user-images.githubusercontent.com/34424478/40072954-785260b8-5843-11e8-8f54-57dee9cc27a4.jpeg)
 
 
 
