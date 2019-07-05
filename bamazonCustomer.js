@@ -57,7 +57,7 @@ function readProducts() {
                             //validating that a proper item ID is entered
                             validate: function (input) {
                                 if (input === '') {
-                                    console.log('Please enter valid Id');
+                                    console.log('Please enter valid item ID');
                                     return false;
                                 } else {
                                     return true;
@@ -72,7 +72,7 @@ function readProducts() {
                             message: "How many would you like?",  
                             validate: function (input) {
                                 if (input === '') {
-                                    console.log('Please enter a valid ID');
+                                    console.log('Please enter a valid quantity');
                                     return false;
                                 } else {
                                     return true;
